@@ -1,0 +1,65 @@
+{
+  "allVideos": [
+    {
+      "id": "1",
+      "caption": "Leo Trailer",
+      "url": "https://static-ai.asianetnews.com/images/01h3gg4mms3e269r27ynm35tgk/1--16-.jpg",
+      "link": "https://www.youtube.com/embed/Po3jStA673E"
+    },
+    {
+      "id": "2",
+      "caption": "Salaar Trailer",
+      "url": "https://manastars.com/wp-content/uploads/2020/12/EoOG7ScUcAIoyUi.jpeg",
+      "link": "https://www.youtube.com/embed/bUR_FKt7Iso"
+    },
+    {
+      "id": "3",
+      "caption": "React Tutorail",
+      "url": "https://tse3.mm.bing.net/th?id=OIP.dJTqBQy3mMnMdI8klN_kHAHaGT&pid=Api&P=0&h=180",
+      "link": "https://www.youtube.com/embed/hQAHSlTtcmY"
+    },
+    {
+      "id": "4",
+      "caption": "Javascript Tutorial",
+      "url": "https://tse3.mm.bing.net/th?id=OIP.u0GbJpCfd9zS4B0xJnSP_gHaIX&pid=Api&P=0&h=180",
+      "link": "https://www.youtube.com/embed/W6NZfCO5SIk"
+    },
+    {
+      "id": "6",
+      "caption": "Fighter Song",
+      "url": "https://images.ottplay.com/images/fighter-song-sher-khul-gaye-1702622517.jpg",
+      "link": "https://www.youtube.com/embed/eL2vQyP6DQE"
+    }
+  ],
+  "history": [
+    {
+      "caption": "Javascript Tutorial",
+      "link": "https://www.youtube.com/embed/W6NZfCO5SIk",
+      "timeStamp": "12/20/2023, 05:00:16 PM",
+      "id": 1
+    },
+    {
+      "caption": "Leo Trailer",
+      "link": "https://www.youtube.com/embed/Po3jStA673E",
+      "timeStamp": "12/22/2023, 04:49:35 PM",
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Trailers",
+      "allVideos": []
+    },
+    {
+      "id": 2,
+      "categoryName": "Songs",
+      "allVideos": []
+    },
+    {
+      "id": 3,
+      "categoryName": "Programming Languages",
+      "allVideos": []
+    }
+  ]
+}
